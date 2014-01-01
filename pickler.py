@@ -1,4 +1,4 @@
-import pickle
+import cPickle as pickle
 
 def list_pickler(list, file_path):
     '''
